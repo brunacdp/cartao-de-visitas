@@ -8,7 +8,9 @@ Tag para breve apresentação pessoal.
 
 :heavy_check_mark: Foco em manipulação do DOM, com inserção de dados pelo JavaScript.
 
-  :link: [Acesse o projeto por aqui](https://codepen.io/brunacdp/pen/YzbXjYg).
+  :link: [Acesse o projeto por aqui](https://brunacdp.github.io/cartao-de-visitas/).
+  <br>
+  :link: [Veja no Codepen](https://codepen.io/brunacdp/pen/YzbXjYg).
   <br>
   <br>
 
