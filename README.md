@@ -1,47 +1,26 @@
-<!-- Tudo o que está dentro desses setinhas é comentário e fica oculto. Apague se preferir, mantenha se quiser deixar de referência -->
-
-> [!NOTE]
-> [Lista de links para consulta no final]
-> <br><br>**Como utilizar esse repositório:**
-> 1. Favorite para consultar sempre que necessário, clicando na :star: (star) no menu superior direito
-> 2. Toque no arquivo _README.md_ para abri-lo
-> 3. No canto superior direito, toque no ícone <img width="28" alt="image" src="https://github.com/brunacdp/readme_template/assets/126818470/ff95727d-8f04-483c-8d96-16b24d3b6405"> (Copy raw file) para copiar o código
-> 4. Cole no seu README e faça as alterações que desejar
-> 5. Agora vamos para o template:
-<br>
-<!-- APAGAR O BLOCO DE CONTEÚDO ACIMA OU COLOCÁ-LO DENTRO DE UM COMENTÁRIO PARA OCULTÁ-LO -->
-
-[Inserir aqui imagem de capa o projeto] 
+<img width="981" alt="Captura de Tela 2024-05-15 às 16 59 10" src="https://github.com/brunacdp/cartao-de-visitas/assets/126818470/77a2f20e-40d3-45dd-86b8-9a5e398f573d">
 <hr>
 
-# [inserir emoji relacionado ao tema do projeto] Título
+# :id: Cartão de Visitas
 
-Descrição curta do projeto.
-<!-- Ex.: Projeto do curso de JavaScript Completo ES6 - Origamid. --> 
+Tag para breve apresentação pessoal.
+<br>Projeto da Masterclass Programação Web com JavaScript, da Programaria, feito originalmente no CodePen.
 
-:heavy_check_mark: Explicar como funciona, conceitos usados, etc.
-<!-- Ex.: Com foco em manipulação do DOM, foram aplicados recursos como: navegação por tabs, accordion list e animações ao scroll. -->
+:heavy_check_mark: Foco em manipulação do DOM, com inserção de dados pelo JavaScript.
 
-  :link: [Acesse o projeto por aqui](inserir link).
+  :link: [Acesse o projeto por aqui](https://codepen.io/brunacdp/pen/YzbXjYg).
   <br>
   <br>
 
 ## Tecnologias e ferramentas
-<!-- Ex.: JavaScript -->
-- [X] Item 1
-- [X] Item 2
-- [X] Item 3
+- [X] HTML5
+- [X] CSS3
+- [X] JavaScript
+<br>
+
+> Foto de <a href="https://unsplash.com/pt-br/@anasalshanti?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Anas Alshanti</a> na <a href="https://unsplash.com/pt-br/fotografias/fotografia-de-foco-do-teclado-do-computador-com-luzes-vermelhas-feXpdV001o4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 <br>
 <br>
 
-<!-- Opcional -->
 > [!NOTE]
-> Escrever aqui alguma observação relevante.
-> <!-- Ex.: Elementos fictícios e utilizados apenas para fins educacionais. Fotografias via [Unsplash](https://unsplash.com/pt-br). --> 
-
-<!-- APAGAR O BLOCO DE CONTEÚDO ABAIXO OU COLOCÁ-LO DENTRO DE UM COMENTÁRIO PARA OCULTÁ-LO -->
-### <hr>
-### :mag_right: Links para consulta
-- [Sintaxe básica de gravação e formatação no GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) 
-- [Vídeo: como inserir imagem](https://www.youtube.com/watch?si=wd3Xlt2jsmLI9QWw&v=oMFiGEZ6UlQ&feature=youtu.be)
-- [Lista de emojis](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+> Gostou do layout desse README? Está disponível [aqui nesse repo](https://github.com/brunacdp/readme_template).
